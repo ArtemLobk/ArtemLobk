@@ -37,10 +37,10 @@ Im Artem Lobkovskyi
 - Email: lobk.artem@gmail.com
 - Discord: tem4ikplay
 
-Feel free to reach out if you have any questions!
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemLobk&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemLobk&layout=compact&theme=holi)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtemLobk&show_icons=true&hide_title=true)
+![ArtemLobk GitHub stats](https://github-readme-stats.vercel.app/api?username=Artemlobk&theme=holi&show_icons=true)
+
 
