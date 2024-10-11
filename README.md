@@ -39,7 +39,7 @@ Im Artem Lobkovskyi
 
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemLobk&hide_border=true&theme=holi)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemLobk&hide_border=true&theme=holi&border_radius=25px)
 
-![ArtemLobk GitHub stats](https://github-readme-stats.vercel.app/api?username=Artemlobk&hide_border=true&theme=holi&show_icons=true)
+![ArtemLobk GitHub stats](https://github-readme-stats.vercel.app/api?username=Artemlobk&hide_border=true&theme=holi&show_icons=true&border_radius=25px)
 
