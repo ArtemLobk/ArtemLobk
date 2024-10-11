@@ -1,7 +1,7 @@
 # Hi 👋
 Im Artem Lobkovskyi
 
-**CV**
+- **CV**
 
 ## 🔧 Technologies & Tools
 
@@ -39,7 +39,7 @@ Im Artem Lobkovskyi
 
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemLobk&layout=compact&theme=holi)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemLobk&theme=holi)
 
 ![ArtemLobk GitHub stats](https://github-readme-stats.vercel.app/api?username=Artemlobk&theme=holi&show_icons=true)
 
