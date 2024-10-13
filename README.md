@@ -1,5 +1,4 @@
-# Hi 👋
-Im Artem Lobkovskyi
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=0CCD1D&multiline=true&repeat=false&width=450&lines=Hi!;Im+Artem)](https://git.io/typing-svg)
 
 - **CV**
 
@@ -39,7 +38,7 @@ Im Artem Lobkovskyi
 
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemLobk&hide_border=true&theme=holi&border_radius=25px)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemLobk&hide_border=true&theme=holi&border_radius=25px&layout=donut)
 
 ![ArtemLobk GitHub stats](https://github-readme-stats.vercel.app/api?username=Artemlobk&hide_border=true&theme=holi&show_icons=true&border_radius=25px)
 
